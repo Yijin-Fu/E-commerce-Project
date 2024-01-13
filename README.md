@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Link](#link)
+- [Link](#https://app.powerbi.com/view?r=eyJrIjoiYTUyZGE4OTYtM2Q2Yy00NDFjLThjYTUtNjlkZjcyZmMxZDUyIiwidCI6IjZmMGJiNzJmLTUzNzctNGRkZi05MzZhLWI2YzcyYmYyMWFlMiIsImMiOjF9)
 
 
 • Utilized Power BI to create interactive dashboards analyzing sales, profits, customers, and products, providing a comprehensive evaluation of the business's health, profitability, and customer characteristics.
