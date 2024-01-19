@@ -4,7 +4,13 @@
 
 ## Background
 
-This is a project which completed a thorough analysis towards the e-commerce 
+This is a project which completed a thorough analysis towards the e-commerce in Brazil.The analysis of an e-commerce platform's performance is crucial for understanding customer behavior and optimizing sales strategies. This study utilizes Power BI Desktop to create interactive dashboards analyzing sales, profits, customers, and products, which providing a comprehensive evaluation of the business's health, profitability, and customer characteristics. It aims to provide insights into customer demographics, sales patterns, and transactional dynamics.
 
-• Utilized Power BI to create interactive dashboards analyzing sales, profits, customers, and products, providing a comprehensive evaluation of the business's health, profitability, and customer characteristics.
-• Developed a relational database to manage multiple datasets and leveraged various data visualizations like KPI cards, waterfall charts, line graphs, and bar charts to extract actionable insights for informed strategic planning.
+## Methodology
+
+- Phase 1: Customers
+  This section focuses on customer demographics, including geographical distribution and trends over time. It uses heat maps to illustrate where customers are located and how customers are distributed so that the business can efficiently manage its supply chain and warehouse. The line chart showcases how customer numbers have changed over the time. Once there is a significant change between two monthes or within a certian period presented by the chart, the business can dive into the data to implement detailed research for the purpose of figuring out root causes.
+
+- Phase 2: Sales
+   Here, the emphasis is on financial data like total payment values and sales figures. Semi-pie charts are used to depict COGS ratio and margin which support the business owner to monitor the sales performance. Addition to that, a stacked line chart are provided to illustrate the differences between total sales and costs which also includes the revenue.
+
