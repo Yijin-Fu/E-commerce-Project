@@ -14,3 +14,7 @@ This is a project which completed a thorough analysis towards the e-commerce in 
 
 - Phase 3: Orders
 -- This part analyzes order-related data, such as the number of orders over time, processing periods, and delivery status. It employs stacked-bar charts to showcase efficiency in order processing and delivery progress, such that the business is able to recognize which process is doing well and which process needs improvement. The waterfall chart provides analysts with a comprehensive understanding of the changes in order volumes relative to the previous quarter, offering a clear visual representation of this data comparison.
+
+## Result
+
+The results indicate significant patterns in customer behavior and sales performance. The data shows variations in customer distribution across regions, fluctuating customer numbers over time, and preferences in payment methods. Total transaction values and sales data revealed key insights into the financial health and operational efficiency of the e-commerce platform. These findings are critical for strategizing business growth and enhancing customer satisfaction.
